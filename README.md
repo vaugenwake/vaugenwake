@@ -1,3 +1,5 @@
+![Header](https://github.com/vaugenwake/vaugenwake/raw/main/Github-Header.png "Vaugen Wake")
+
 ### Hi there 👋
 
 <!--
