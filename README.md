@@ -1,5 +1,3 @@
-![Header](https://github.com/vaugenwake/vaugenwake/raw/main/Github-Header.png "Vaugen Wake")
-
 ### Hi there 👋
 
 <!--
@@ -8,6 +6,6 @@
 Here are some things to know about me:
 
 - 🔭 I’m currently working on: Laravel, VueJS, Livewire & Wordpress
-- 📍 I currently live in: **United Kingdom**
+- 📍 I currently live in: **United Kingdom** origionally from **South Africa**
 - 📫 How to reach me: [@vaugenwake](https://www.twitter.com/vaugenwake) on Twitter
 - ⚡ Fun fact: I play the drums & guitar
